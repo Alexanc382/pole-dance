@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Элемент Бочка</title>
+        <title>Элемент "Бочка"</title>
     </head>
     <body>
         <h1>Заход в элемент</h1>
