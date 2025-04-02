@@ -1,0 +1,41 @@
+.icon-bar{
+    background-color: #91aa99;
+    overflow: hidden;
+  
+}
+.fa-fa-envelope {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20x 35px;
+    text-decoration: none;
+    font-size: 10px;
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.3s ease;
+    color: var(--color);
+}
+h1 {
+    font-size: 32pt;
+    text-align: center;
+    color: #319774;
+}
+a {text-align: center;
+}
+.greeting {
+    text-align: center;
+    font-family: cursive;
+}
+.name-elements{
+text-align: center;
+color: #334D44;
+font-family: cursive;
+}
