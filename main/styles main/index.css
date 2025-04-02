@@ -20,8 +20,10 @@ a {text-align: center;
 }
 .greeting {
     text-align: center;
-    font-family: Arial, Helvetica, cursive;
+    font-family: cursive;
 }
 .name-elements{
 text-align: center;
+color: #334D44;
+font-family: cursive;
 }
