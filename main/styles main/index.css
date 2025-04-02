@@ -2,7 +2,7 @@
     background-color: #91aa99;
     overflow: hidden;
 }
-a {
+.fa fa-envelope {
     float: right;
     display: block;
     color: white;
@@ -16,7 +16,7 @@ h1 {
     text-align: center;
     color: #319774;
 }
-p {text-align: center;
+a {text-align: center;
 }
 .greeting {
     text-align: center;
