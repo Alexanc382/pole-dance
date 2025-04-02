@@ -1,20 +1,11 @@
 .icon-bar{
     background-color: #91aa99;
     overflow: hidden;
-    padding: 20x 35px;
-}
-.line {
-    display: block;           /* Линия достойно занимает своё место */
-    height: 3px;              /* Деликатный акцент для разделения */
-    border: none;             /* Отсутствие рамок упрощает визуальную часть */
-    border-top: 3px solid #ccc; /* Внимание концентрируется на верхней границе */
-    margin: 1em 0;            /* Дарим пространство сверху и снизу */
-    padding: 0;               /* Избегаем лишнего объёма */
 }
 .fa-fa-envelope {
     float: right;
     display: block;
-    padding: 20x 35px;
+    padding: 10x 15px;
     text-decoration: none;
     font-size: 10px;
 }
