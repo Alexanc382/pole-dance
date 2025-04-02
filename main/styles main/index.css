@@ -10,6 +10,18 @@
     padding: 20x 35px;
     text-decoration: none;
     font-size: 10px;
+
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.3s ease;
+    color: var(--color);
 }
 h1 {
     font-size: 32pt;
