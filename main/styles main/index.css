@@ -2,13 +2,12 @@
     background-color: #91aa99;
     overflow: hidden;
 }
-.fa-fa-envelope {
+.icon-bar a {
     float: right; /*направление самой иконки-->*/
     display: block;
     padding: 10x 15px;
     text-decoration: none;
     font-size: 10px;
-    width: 20%;
 
 }
 h1 {
