@@ -2,7 +2,7 @@
     background-color: #91aa99;
     overflow: hidden;
 }
-.fa fa-envelope {
+.fa-fa-envelope {
     float: right;
     display: block;
     color: white;
@@ -21,4 +21,7 @@ a {text-align: center;
 .greeting {
     text-align: center;
     font-family: Arial, Helvetica, cursive;
+}
+.name-elements{
+text-align: center;
 }
