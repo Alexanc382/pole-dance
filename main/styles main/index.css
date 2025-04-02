@@ -1,7 +1,8 @@
 .icon-bar{
     background-color: #91aa99;
     overflow: hidden;
-    
+    padding: 20x 35px;
+
 }
 .fa-fa-envelope {
     float: right;
