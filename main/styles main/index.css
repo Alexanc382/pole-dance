@@ -2,7 +2,7 @@
     background-color: #91aa99;
     overflow: hidden;
 }
-a {
+.icon-bar a {
     float: right; /*направление самой иконки-->*/
     text-align: center;
     width: 20%;
