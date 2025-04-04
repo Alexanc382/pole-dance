@@ -32,5 +32,6 @@ font-family: cursive;
     text-align: center;
 }
 .pictur img {
-    width: 10%;
+    width: 100px;
+    height: 120px;
 }
