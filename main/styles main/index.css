@@ -32,3 +32,9 @@ text-align: center;
 color: #334D44;
 font-family: cursive;
 }
+.picture {
+    text-align: center;
+}
+body {
+    background: main\images main\back pic.jpg;
+}
