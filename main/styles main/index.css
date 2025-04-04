@@ -35,3 +35,6 @@ font-family: cursive;
 .picture {
     text-align: center;
 }
+.fon {
+    background-image: main\images main\back-pic.jpg
+}
