@@ -16,6 +16,11 @@ h1 {
     text-align: center;
     color: #319774;
 }
+.subtitle {
+    font-size: 16pt;
+    text-align: left;
+    color: #123d2e;
+}
 a {text-align: center;
 }
 .greeting {
