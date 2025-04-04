@@ -38,3 +38,20 @@ font-family: cursive;
     width: 100px;
     height: 120px;
 }
+  .translucent {
+    opacity: 0.4;
+    filter: alpha(opacity = 40); /* For IE */
+}
+#container {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+#background, #content {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#background {
+    background-image: main\images main\back pic.jpg;
+}
