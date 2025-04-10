@@ -38,3 +38,9 @@ font-family: cursive;
 .fon {
     background-image: main\images main\back-pic.jpg
 }
+body{text-align: center;}
+table{margin: auto;}
+th{color: blueviolet;}
+.compo{color: rgb(255, 3, 242);}
+dt{color: brown;}
+.total{color: chocolate;}
