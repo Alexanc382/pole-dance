@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 36pt;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32pt;
+  text-align: center;
+}
+
+p {
+  font-size: 14pt;
+  text-align: center;
+  line-height: 0.1em;
+} /*задала промежутки между строками текста*/
+.picture {
+  text-align: center;
+}/*# sourceMappingURL=elements-style.css.map */
