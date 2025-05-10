@@ -1,66 +1,66 @@
-@charset "UTF-8";
-.icon-bar {
-  background-color: #91aa99;
-  overflow: hidden;
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 
-.icon-bar a {
-  float: right; /*направление самой иконки-->*/
-  text-align: center;
-  display: block;
-  padding: 12px 0;
-  transition: all 0.3s ease;
-  text-decoration: none;
-  font-size: 10px;
+.nav-bar {
+  background-color: #104a24a7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
 }
 
-h1 {
-  font-size: 32pt;
-  text-align: center;
-  color: #319774;
+img {
+  width: 70px;
+  height: 70px;
+  margin: 0;
 }
 
+.block-all {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.block {
+  border: 1px solid red;
+}
+
+/*h1 {
+    font-size: 32pt;
+    text-align: center;
+    color: #319774;
+}
 .subtitle {
-  font-size: 16pt;
-  text-align: left;
-  color: #123d2e;
+    font-size: 16pt;
+    text-align: left;
+    color: #123d2e;
 }
-
-a {
-  text-align: center;
+a {text-align: center;
 }
-
 .greeting {
-  text-align: center;
-  font-size: 24pt;
+    text-align: center;
+    font-size: 24pt;
 }
-
-.name-elements {
-  text-align: center;
-  color: #334D44;
-  font-family: cursive;
+.name-elements{
+text-align: center;
+color: #334D44;
+font-family: cursive;
 }
-
 .picture {
-  text-align: center;
+    text-align: center;
 }
-
-table {
-  margin: auto;
-}
-
-th {
-  color: blueviolet;
-}
-
-.compo {
-  color: rgb(255, 3, 242);
-}
-
-dt {
-  color: brown;
-}
-
-.total {
-  color: chocolate;
-}/*# sourceMappingURL=index-style.css.map */
+table{margin: auto;}
+th{color: blueviolet;}
+.compo{color: rgb(255, 3, 242);}
+dt{color: brown;}
+.total{color: chocolate;}*/
+/*# sourceMappingURL=index-style.css.map */

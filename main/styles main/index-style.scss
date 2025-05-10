@@ -1,17 +1,28 @@
-.icon-bar{
-    background-color: #91aa99;
-    overflow: hidden;
+$border-line: 1px solid;
+
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
 }
-.icon-bar a {
-    float: right; /*направление самой иконки-->*/
-    text-align: center;
-    display: block;
-    padding: 12px 0;
-    transition: all 0.3s ease;
-    text-decoration: none;
-    font-size: 10px;
+.nav-bar{
+    background-color: #104a24a7;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
-h1 {
+img{
+    width: 70px;
+    height: 70px;
+    margin: 0;
+}
+.block-all{
+    display: flex;
+}
+.block{
+    border: $border-line red;
+}
+/*h1 {
     font-size: 32pt;
     text-align: center;
     color: #319774;
@@ -39,4 +50,4 @@ table{margin: auto;}
 th{color: blueviolet;}
 .compo{color: rgb(255, 3, 242);}
 dt{color: brown;}
-.total{color: chocolate;}
+.total{color: chocolate;}*/
