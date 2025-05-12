@@ -1,9 +1,20 @@
 $border-line: 1px solid;
-
+/*палитра
+.div{
+   color:#323234;
+   color: #45504B;
+   color: #57726B;
+   color: #A8B680;
+   color: #DDDEB9;
+}*/
 body{
     width: 100%;
     padding: 0;
     margin: 0;
+    background-color: #57726B;
+}
+.header{
+    background-image: url();
 }
 .nav-bar{
     background-color: #104a24a7;
@@ -21,6 +32,8 @@ img{
 }
 .block{
     border: $border-line red;
+    width: 100%;
+    background-color: #A8B680;
 }
 /*h1 {
     font-size: 32pt;
