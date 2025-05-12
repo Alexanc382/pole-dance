@@ -1,4 +1,5 @@
 $border-line: 1px solid;
+$header-container: 700px;
 /*палитра
 .div{
    color:#323234;
@@ -7,3 +8,70 @@ $border-line: 1px solid;
    color: #A8B680;
    color: #DDDEB9;
 }*/
+.div{
+    background-color: #144864;
+    background-color: #366B93;
+    background-color: #6A6A6A;
+    background-color: #DBDCCA;
+    background-color: #553A45;
+}
+
+.header{
+    background-image: url(backr-img.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    color: white;
+}
+nav{
+    border: $border-line red;
+    box-sizing: border-box;
+}
+.menu_nav{
+    display: flex;
+    justify-content: right;
+    margin-right: 20px;
+    border: $border-line rgb(68, 0, 255);
+}
+.list_nav{
+    list-style-type: none;
+    margin: 10px;
+    font-size: large;
+}
+.container{
+    margin-top: 150px;
+    margin-left: 250px;
+    font-size: xx-large;
+    box-sizing: border-box;
+}
+.header-top{
+    background-color: antiquewhite;
+    width: $header-container
+}
+.header-bottom{
+    margin-bottom: 60px;
+    background-color: red;
+    width: $header-container
+}
+.main-top{
+    width: 100%;
+    height: 200px;
+}
+.block-all{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: center;
+}
+.block{
+    width: 100%;
+    border: 5px solid #553A45;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2px;
+}
+.h1-block1, .h1-block2, .h1-block3{
+    border: $border-line green;
+}
+.h1-block3{
+}
